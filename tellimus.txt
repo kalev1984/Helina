@@ -1,0 +1,13 @@
+1    ARAMIS V 0,5L 36% Muu piiritusjook    5 tk
+2    ARAMIS VSOP 0,5L 30% Muu piiritusjook    3 tk
+3    TORRES 5 years 0,7L 38% Brandy    2 tk
+4    GRAN CASTILLO ICE Sparkling 0,75L 10,5% Vahuvein    3 tk
+5    AUSTRALIAN BUSH Chardonnay-Colombard 0,75L 13% GTvein    3 tk
+6    TELIANI VALLEY Alazani Red 0,75L 12% GTvein    3 tk
+7    TELIANI VALLEY Alazani White 0,75L 12% GTvein    3 tk
+8    GRAN CASTILLO*Tempranillo Rose 0,75L 11% KPN-vein    3 tk
+9    J.P.CHENET RED Med.Sweet 0,75L 13% KGT-vein    3 tk
+10    FRANZ HOFFNER Riesling 0,75L 8,5% KGTvein    6 tk
+11    KUHLBERG RIESLING 0,75L 8,5% KGT-vein    3 tk
+12    DOMKELLERSTOLZ WHITE 1L 9,5% Vein    12 tk
+13    FRANZ HOFFNER Riesling BIB 3L 8.5% KGT-vein    2 tk
